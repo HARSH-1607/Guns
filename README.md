@@ -1,5 +1,7 @@
 # Unity FPS Game
 
+Play the game here: [https://play.unity.com/en/games/8072181b-01ab-4fef-a120-fe8d59d4ce0a/guns](https://play.unity.com/en/games/8072181b-01ab-4fef-a120-fe8d59d4ce0a/guns)
+
 ## Project Overview
 This is a first-person shooter (FPS) game developed in Unity, featuring immersive gameplay and custom mechanics.
 
